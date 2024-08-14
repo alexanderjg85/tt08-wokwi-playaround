@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Adds 2 2-Bit Numbers. In0 and In1 are Number0 and D0 and D1 are Number 2. Output is given the Sum on Out0 for S0 and Out1 for S1, Carry out will be at Pin Out7.
 
 ## How to test
 
-Explain how to use your project
+Change the Switches at In0 and In2 and give a High or Low input at D0 and D1. Output will be the Addition of these 2 Numbers.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip Switches
